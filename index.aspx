@@ -27,12 +27,9 @@
             <div id="topbar-responsive" class="topbar-responsive-links">
                 <div class="top-bar-right">
                     <ul class="menu simple vertical medium-horizontal">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="#">자기소개</a></li>
                         <li><a href="#">About</a></li>
                         <li><a href="#">Services</a></li>
-                        <li><a href="#">Works</a></li>
-                        <li><a href="#">News</a></li>
-                        <li><a href="#">Contact</a></li>
                         <li>
                             <button type="button" class="button hollow topbar-responsive-button">Categories</button>
                         </li>
